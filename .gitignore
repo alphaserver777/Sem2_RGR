@@ -1,0 +1,15 @@
+# Build artifacts
+/encodecs
+*.o
+*.obj
+*.exe
+*.out
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Temp
+/tmp/
+*.docx
+РГР ОТЧЕТ.docx
